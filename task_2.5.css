@@ -1,0 +1,22 @@
+#content
+{
+	background: green;
+	color: white;
+	
+	width: 500px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#fatBlock
+{
+	background: blue;
+	color: white;
+	
+	padding: 30px 50px 30px 50px;
+	width: 500px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}

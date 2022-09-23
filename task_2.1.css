@@ -1,0 +1,49 @@
+*
+{
+	margin: 0px;
+}
+
+header
+{
+	background: #EAEAEA;
+	margin: 0px;
+	padding: 10px;
+	padding-bottom: 40px;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+#content
+{
+	overflow: hidden; 
+}
+
+aside
+{
+	background: #C8FC98;
+	float: left;
+	width: 200px;
+	line-height: 25px;
+	font-size: 16px;
+}
+
+article
+{
+	margin-left: 200px;
+	line-height: 25px;
+	font-size: 16px;
+	padding-left: 10px;
+}
+
+footer
+{	
+	text-align: center;
+	background: black;
+	padding: 10px;
+	font-size: 14px;
+}
+
+a
+{
+	color: yellow;
+}
