@@ -1,0 +1,42 @@
+*
+{
+	margin: 0px;
+}
+
+#generalBox
+{
+	background: aqua;	
+	margin: 10px;
+}
+
+#menu
+{
+	background: bisque;	
+	width: 200px;
+	
+	float: left;
+}
+
+ul
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#content
+{	
+	background: darkgray;	
+	margin-left: 200px;
+}
+
+#fixedDiv
+{
+	background: limegreen;
+	
+	position: fixed;
+	
+	margin: 0px;
+	bottom: 0px;
+	width: 100%;
+	height: 70px;
+}

@@ -1,0 +1,17 @@
+#floatBox
+{	
+	background: aquamarine;
+	
+	width: 200px;
+	height: 100px;
+	
+	margin: 16px 0px 16px 16px;
+	
+	float: left;
+}
+
+#clearPropertyBox
+{		
+	clear: both;
+	background: bisque;
+}

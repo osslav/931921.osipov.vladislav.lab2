@@ -1,0 +1,13 @@
+#content
+{
+	background: aqua;
+	
+	width: 100%;
+	display: inline-block;	
+	border: 1px solid green;
+}
+
+img
+{
+	float: right;
+}
