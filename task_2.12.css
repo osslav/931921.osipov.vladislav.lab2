@@ -1,0 +1,42 @@
+*
+{
+	margin: 0px;
+}
+
+#generalBox
+{
+	border: 1px solid green;
+	
+	background: aqua;	
+	margin: 10px;
+	
+	display: inline-block
+}
+
+#menu
+{
+	background: bisque;	
+	width: 25%;
+	
+	margin-right: 5px;
+	
+	float: left;
+}
+
+ul
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#content
+{	
+	background: darkgray;	
+	width: 74.5%;
+	
+	margin-left: auto;
+	
+	min-width: 400px;
+	
+	float: left;
+}

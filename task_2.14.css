@@ -1,0 +1,69 @@
+*
+{
+	margin: 0px;
+}
+
+#generalBox
+{
+	border: 1px solid green;
+	
+	background: aqua;	
+	margin: 10px;
+	
+	display: inline-block
+}
+
+#menu
+{
+	background: bisque;	
+	width: 25%;
+	
+	float: left;
+}
+
+ul
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#content
+{	
+	background: darkgray;	
+	width: 75%;
+	
+	margin-left: auto;
+	
+	min-width: 400px;
+}
+
+@media screen and (max-width: 700px)
+{
+	#menu
+	{
+		background: bisque;
+		width: 100%;
+	
+		margin: 20px 0px 20px 0px;
+	
+		float: none;
+	}
+	
+	ul
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	
+	li
+	{
+		display: inline-block;
+	}
+	
+	#content
+	{
+		width: 100%;
+	}
+}
+
+

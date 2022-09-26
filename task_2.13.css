@@ -1,0 +1,40 @@
+*
+{
+	margin: 0px;
+}
+
+#generalBox
+{
+	background: aqua;	
+	margin: 10px;
+	
+	border: 1px solid green; 
+}
+
+#menu
+{
+	background: bisque;	
+	width: 25%;
+	
+	float: left;
+}
+
+ul
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#content
+{	
+	background: darkgray;	
+	margin-left: 25%;
+}
+
+img
+{
+	float: right;
+	
+	width: 50%;
+	height: auto;
+}

@@ -1,0 +1,22 @@
+#inlineBox
+{
+	background: aquamarine;	
+	
+	width: 200px;
+	height: 100px;
+	
+	margin: 15px 15px 15px 15px;
+	
+	display: inline-block;
+	
+}
+
+p
+{
+	margin-top: 0px;
+}
+
+#noNeedClear
+{
+	background: bisque;	
+}
